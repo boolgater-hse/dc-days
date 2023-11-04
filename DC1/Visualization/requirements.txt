@@ -1,0 +1,2 @@
+matplotlib==3.8.0
+celluloid==0.2.0
